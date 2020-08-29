@@ -1,0 +1,12 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "golang",
+				"tag": "1.14.0-buster",
+				"digest": "887e9114176491998d0cc9ba9cc16f5e395065e3b5422a6d9351168810942181"
+			}
+		]
+	},
+	"composefiles": {}
+}
